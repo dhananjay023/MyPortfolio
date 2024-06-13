@@ -21,22 +21,23 @@ import image from "../images/motion-background.jpg";
 const imageAltText = "purple and blue abstract background";
 
 /**
- * Sort description that expands on your title on the Home component.
+ * Sort a description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi! I'm Dhananjay Varshney, an enthusiastic and dedicated Computer Science Engineering student with strong academic performance and a passion for technology. I'm experienced in web development and tutoring, committed to leveraging technical skills to contribute to innovative projects in the tech industry.";
 
 /**
- * List of some of skills or technologies you work on, are learning,
+ * List of some of the skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web designing",
+  "C Programming",
+  "Python",
+  "Java",
+  "HTML & CSS",
+  "Javascript",
+  "Event Management",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a passionate computer science student with a strong foundation in HTML, Java, Python, and SQL. Experienced in leading teams with excellent communication and teamwork skills. Eager to contribute to innovative projects.";
 
 const About = () => {
   return (
