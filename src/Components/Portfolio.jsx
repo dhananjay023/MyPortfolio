@@ -31,10 +31,10 @@ const imageAltText = "a man using a computer";
  */
 const projectList = [
   {
-    title: "Web Development for Beginners",
+    title: "Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An interactive website for a stationery shop developed with WordPress.",
+    url: "https://nainastationery8.wordpress.com/",
   },
   {
     title: "My Resume",
