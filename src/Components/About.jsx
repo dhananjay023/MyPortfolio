@@ -37,6 +37,7 @@ const skillsList = [
   "Java",
   "HTML & CSS",
   "Javascript",
+  "Word Press",
   "Event Management",
 ];
 
